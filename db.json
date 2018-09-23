@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "ratings": [
     { "id": 1, "Good": "Post 1" },
     { "id": 2, "Bad": "Post 2" },
     { "id": 3, "Excellent": "Post 3" }
@@ -10,7 +10,5 @@
   ],
   "profile": {
     "name": "siddharth agarwal"
-    "age" : "23"
-    "occupation" : "developer"
   }
 }
