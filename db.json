@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "siddharth agarwal"
+    "age": "23"
+    "occupation": "developer"
+    "country": "india"
   }
 }
