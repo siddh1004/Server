@@ -9,9 +9,9 @@
     { "id": 2, "body": "This is some other comment", "postId": 1 }
   ],
   "profile": {
-    "name": "siddharth agarwal"
-    "age": "23"
-    "occupation": "developer"
+    "name": "siddharth agarwal",
+    "age": "23",
+    "occupation": "developer",
     "country": "india"
   }
 }
