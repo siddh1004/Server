@@ -1,13 +1,14 @@
 {
-  "ratings":
+  "ratings":{
     { "id": 1, "Good": "Post 1" },
     { "id": 2, "Bad": "Post 2" },
     { "id": 3, "Excellent": "Post 3" }
+}
   ,
-  "comments": 
+  "comments": {
     { "id": 1, "body": "This is comment one"},
     { "id": 2, "body": "This is some other comment"}
-  ],
+},
   "profile": {
     "name": "siddharth agarwal",
     "age": "23",
